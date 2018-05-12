@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6090'
     url: http://www.gutenberg.org/2009/agents/6090
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15488#Woman-s-Life-in-Colonial-Days
 gutenberg_bookshelf: Children's History
 gutenberg_issued: '2005-03-28'
 gutenberg_type: Text
